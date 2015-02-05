@@ -1,9 +1,10 @@
+import java.util.ArrayList;
+
 
 public class Tires
 	{
 
-		public static void main(String[] args)
-			{
+		public static void Tires()			{
 				
 
 			}

@@ -15,7 +15,7 @@ public class Player
 				System.out.println("Hello, " + name + "!");
 				System.out.println("Welcome beginner.");
 				System.out.println("You have been given a 1998 Subaru Impreza");
-				System.out.println("You have 50,000 to start out with.");
+				System.out.println("You have $9,000 to start out with.");
 				
 			}
 	
