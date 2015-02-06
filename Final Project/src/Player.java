@@ -2,7 +2,7 @@ import java.util.Scanner;
 public class Player
 		
 {
-		static int money = 50000;
+		static int money = 9000;
 		static Scanner userInput = new Scanner(System.in);
 			{
 				AskRacerName();

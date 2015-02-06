@@ -13,6 +13,7 @@
 	public static void Cars()
 		{
 			ArrayList <Cars> CarName = new ArrayList <Cars>();
+			CarName.add(new Cars("Subaru Impreza"));
 			CarName.add(new Cars("Ford Mustang"));
 			CarName.add(new Cars("Mazda Miata"));
 			CarName.add(new Cars("Nissan 300ZX"));
